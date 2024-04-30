@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+PARTH...;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-Software Developer | Android-iOS-Flutter-Jetpack Compose
+Software Developer | Flutter-Android-iOS Compose
   
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfCefH4Beq7ivaIF5mMPLAw?style=social)](https://www.youtube.com/c/FlutterBucket?sub_confirmation=1) -->
 [![](https://komarev.com/ghpvc/?username=parthunagar)](https://github.com/parthunagar)

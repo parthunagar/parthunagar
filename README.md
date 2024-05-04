@@ -35,23 +35,23 @@ Software Developer | Flutter-Android-iOS Compose
   <br>
   <!--Achievments-->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
+    <img src="https://github-profile-trophy.vercel.app/?username=parthunagar&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
          alt="GitHub achievment showcase was one here..." />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
+    <img src="https://github-profile-trophy.vercel.app/?username=parthunagar&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
          alt="GitHub achievment showcase was one here..." />
   </a>
   
   <!-- Commit Snake! -->
   
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
+  <a href="https://raw.githubusercontent.com/parthunagar/parthunagar/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/parthunagar/parthunagar/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
   </a>
   
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
+  <a href="https://raw.githubusercontent.com/parthunagar/parthunagar/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/parthunagar/parthunagar/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
 </p>
